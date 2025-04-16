@@ -33,8 +33,7 @@ Clone o repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/RerissonHRS/AnaliseDadosStreamlite
 Crie um ambiente virtual (opcional mas recomendado):
 
 bash
